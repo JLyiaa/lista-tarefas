@@ -1,0 +1,29 @@
+# ✅ To-Do List em Python
+
+Uma aplicação simples de terminal para gerenciamento de tarefas (To-Do List), desenvolvida em Python.  
+Ideal para treinar estruturas básicas como listas, funções, laços e manipulação de arquivos.
+
+---
+
+## 📋 Funcionalidades
+
+- Adicionar novas tarefas
+- Listar tarefas atuais
+- Remover tarefas específicas
+- Salvar e carregar tarefas automaticamente (via arquivo `.txt`)
+
+---
+
+## 🚀 Tecnologias Usadas
+
+- Python 3.x
+
+---
+
+## ▶️ Como Executar
+
+1. **Clone o repositório**:
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repo.git
+cd lista-tarefas

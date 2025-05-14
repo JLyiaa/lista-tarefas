@@ -25,5 +25,5 @@ Ideal para treinar estruturas básicas como listas, funções, laços e manipula
 1. **Clone o repositório**:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/JLyiaa/lista-tarefas.git
 cd lista-tarefas
